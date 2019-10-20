@@ -1,6 +1,2 @@
 My first line in project
-London is the capital of GB
-Moscow is the capital of Russia
- 123z
-Paris is the capital of France
-Paris is the capital of France1
+>>>>>>> parent of e701e15... Capital added and Another capitals
